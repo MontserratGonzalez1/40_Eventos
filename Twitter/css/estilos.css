@@ -1,0 +1,21 @@
+ header {
+	background-color: gray;
+}
+
+textarea {
+	width: 100%
+}
+
+.lista li {
+	border-bottom: 1px solid gray;
+} 
+
+.lista li a {
+	display: block;
+	padding: 20px 0;
+	text-decoration: none;
+}
+
+.lista li a:hover {
+	text-decoration: line-through;
+} 
